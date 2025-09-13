@@ -4,4 +4,4 @@
 
 | ![Sequence3](https://github.com/111495zjy/Video_examples_of_Diff-EvINR/raw/main/sequence3.gif) | ![Sequence4](https://github.com/111495zjy/Video_examples_of_Diff-EvINR/raw/main/sequence4.gif) |
 |:--:|:--:|
-|Figure 3|Figure 4|
+|Sequence 3|Sequence 4|
